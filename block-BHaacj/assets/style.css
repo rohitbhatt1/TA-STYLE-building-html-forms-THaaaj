@@ -360,6 +360,8 @@ padding-bottom: 10px;
 }
 .europ-text{
     width: 550px;
+    position: absolute;
+    left: 100px;
 }
 .asia .place-text{
     background-color:#C66995;   
